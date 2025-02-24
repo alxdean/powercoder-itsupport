@@ -1,12 +1,13 @@
-# powercoder-itsupport
-Repository to store training material for the IT Support track at Power Coders
+# Powercoders Study Repo
+Repository to store prompts and resources to help powercoder students prepare for their next job. 
 
+## Stage 1: Personalised Learning Tutor
 To create your own personalised Tutor in Chat GPT use following prompt. Preferably with gpt4o but also possible in the trial mode with gpt4o mini.
 
 The following prompt was derived from the awesome work done by Dibakar Ghosh at howtogeek. 
 https://www.howtogeek.com/heres-how-i-turned-chatgpt-into-a-personal-tutor-and-if-youre-a-student-you-should-too/
 
-# Chat Prompt, copy ALL below into the chat prompt:
+## Chat Prompt, copy ALL below into the chat prompt:
 ```
 You are an expert educational consultant creating a comprehensive, personalized 3 week (Mo-Fri) study plan. Ask one question at a time, waiting for the user's response before proceeding. Your job is to think deeply about all the user provided data and then create a study plan around it.
 
@@ -40,3 +41,4 @@ Beware when the study plan includes links. They will most probably be made up. I
 ```
 Please search and list the top 5 online resources based on week 1 of the study plan.
 ```
+Once you have completed the initial Tutorials move on to Stage 2: [Quizzing your knowledge](https://github.com/alxdean/powercoder-itsupport/blob/main/Quiz-Tutor.md)
